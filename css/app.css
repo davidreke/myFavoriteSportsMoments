@@ -1,0 +1,41 @@
+.nav{
+    min-height: 100%;
+}
+.row{
+    min-height: 70vh;
+    Margin: 20px 0px 20px 0px;
+}
+
+iframe{
+    min-height: 40vh;
+}
+
+.jumbotron{
+    padding: 3%;
+    text-transform:uppercase;
+}
+a.nav-link:hover{
+    text-decoration: underline;
+    color:black;
+}
+
+.navbar-brand{
+    font-weight:bold;
+    border-bottom: 2px solid white;
+    padding: 15px
+}
+
+a.footerLink{
+    padding-right: 40px;
+    padding-left: 40px;
+    color:black;
+}
+
+body{
+    background-image: url("http://d3e1m60ptf1oym.cloudfront.net/2d47b102-8d33-11e3-8171-cf5511faf504/DSC02633-Cincinnati-Skyline-Photo_xgaplus.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.container{
+    background-color: white;
+}
